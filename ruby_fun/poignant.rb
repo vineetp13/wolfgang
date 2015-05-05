@@ -12,7 +12,9 @@
 #duplicates
 #.clone vs .dup: wrt frozen objects, metaclass copy, 
 
-#
+#RegExs
+
+# 
 
 
 
